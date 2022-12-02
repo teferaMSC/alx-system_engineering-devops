@@ -1,2 +1,2 @@
 #!/bin/bash
-Long format
+ls -lan
